@@ -1,0 +1,3 @@
+FASTA_File,Processing_Time_Seconds,Sequences_Processed,Status
+rawShuffledFastas/train10(11000)(1).fasta,11.8547,1100,Success
+rawShuffledFastas/test90(11000)(1).fasta,99.8426,9900,Success
